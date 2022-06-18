@@ -10,11 +10,12 @@ Hi there! I'm frontEnd developer
  
 <h2>📚 STACKS 📚</h2>
 <p>
-<img  src"https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=fff"> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black">
+<img  src"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 <br>
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/styled.components-DB7093?style=flat-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/styled.components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black">
 </p>
 
 <br>
