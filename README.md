@@ -1,9 +1,11 @@
  ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HayoungLee%20&fontSize=90&fontColor=333&fontAlignY=50)
  
 
-<h2 >👋 Hi there 👋</h2>
-
+<h2 >👋 Lee HaYoung 👋</h2>
+<h3> Developers who can look at the same thing but think from a different perspective </h3>
 Hi there! I'm frontEnd developer
+
+i enjoy 
 
 <br>
  
