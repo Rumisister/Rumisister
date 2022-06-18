@@ -5,7 +5,6 @@
 <h3> Developers who can look at the same thing but think from a different perspective </h3>
 Hi there! I'm frontEnd developer
 
-i enjoy 
 
 <br>
  
