@@ -3,7 +3,7 @@
 
 <h2 >👋 Hi there 👋</h2>
 
-I'm hayoung lee, front-end developer 😸
+Hi there! I'm frontEnd developer
 
 <br>
  
@@ -16,7 +16,11 @@ I'm hayoung lee, front-end developer 😸
 <img src="https://img.shields.io/badge/styled.components-DB7093?style=flat-the-badge&logo=styled-components&logoColor=white">
 </p>
 
+<br>
 
+<h2>🍿 Github stats 🍿</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rumisister&show_icons=true&theme=radical)
 
 <!--
 **Rumisister/Rumisister** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
