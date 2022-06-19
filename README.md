@@ -1,4 +1,4 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=HayoungLee%20&fontSize=90&fontColor=333&fontAlignY=50)
+ ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hayoung-Lee%20&fontSize=90&fontColor=333&fontAlignY=50)
  
 
 <h2 >👋 Lee HaYoung 👋</h2>
