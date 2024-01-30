@@ -1,9 +1,8 @@
- ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hayoung-Lee%20&fontSize=90&fontColor=333&fontAlignY=50)
- 
+ ![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=ha%20young%20Github&fontSize=90) 
 
-<h2 >👋 Lee HaYoung 👋</h2>
+<h2 >👋 Hi 👋</h2>
 <h3> Developers who can look at the same thing but think from a different perspective </h3>
-Hi there! I'm frontEnd developer
+Hi there! I'm iOS developer
 
 
 <br>
@@ -11,13 +10,10 @@ Hi there! I'm frontEnd developer
  
 <h2>📚 STACKS 📚</h2>
 <p>
-<img  src"https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"> <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=fff"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
-<br>
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/styled.components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=black">
- <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=black">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"/> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/> <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/>
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ 
+
 </p>
 
 <br>
